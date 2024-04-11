@@ -1,0 +1,24 @@
+hyena Habitat:
+Bear Names:; hyena; birth date: 2020-03-21; tan color color; old; 70 pounds; arrived 2024-04-11
+Yogi, Smokey, Paddington, Lippy, Bungle, Baloo, Rupert, Winnie the Pooh, Snuggles, Bert; hyena; birth date: 2012-03-21; brown color color; old; 150 pounds; arrived 2024-04-11
+Lion Names:; hyena; birth date: 2020-03-21; black color color; old; 120 pounds; arrived 2024-04-11
+; hyena; birth date: 2016-03-21; black and tan striped color color; old; 105 pounds; arrived 2024-04-11
+
+bear Habitat:
+; bear; birth date: 2017-03-21; brown color color; old; 320 pounds; arrived 2024-04-11
+; bear; birth date: 1999-03-21; black color color; old; 425 pounds; arrived 2024-04-11
+Lion Names:; bear; birth date: 2020-03-21; black color color; old; 355 pounds; arrived 2024-04-11
+; bear; birth date: 2020-03-21; brown color color; old; 405 pounds; arrived 2024-04-11
+
+tiger Habitat:
+; tiger; birth date: 2022-03-21; gold and tan stripes color color; old; 270 pounds; arrived 2024-04-11
+Yogi, Smokey, Paddington, Lippy, Bungle, Baloo, Rupert, Winnie the Pooh, Snuggles, Bert; tiger; birth date: 2020-03-21; black stripes color color; old; 400 pounds; arrived 2024-04-11
+Yogi, Smokey, Paddington, Lippy, Bungle, Baloo, Rupert, Winnie the Pooh, Snuggles, Bert; tiger; birth date: 2006-03-21; gold and tan color color; old; 300 pounds; arrived 2024-04-11
+Hyena Names:; tiger; birth date: 2021-03-21; black stripes color color; old; 285 pounds; arrived 2024-04-11
+
+lion Habitat:
+; lion; birth date: 2018-03-21; tan color color; old; 300 pounds; arrived 2024-04-11
+Tony, Tigger, Amber, Cosimia, Cuddles, Dave, Jiba, Rajah, Rayas, Ryker; lion; birth date: 2012-03-21; dark tan color color; old; 375 pounds; arrived 2024-04-11
+Hyena Names:; lion; birth date: 2002-03-21; golden color color; old; 450 pounds; arrived 2024-04-11
+Tiger Names:; lion; birth date: 2020-03-21; tan and brown color color; old; 275 pounds; arrived 2024-04-11
+
